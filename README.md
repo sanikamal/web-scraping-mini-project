@@ -1,5 +1,10 @@
-# web-scraping-mini-project
-Extract data from websites using : Python | Scrapy and BeautifulSoup
+# Web Scraping with Python
+> ### Web scraping is the process of extracting data from web sites via programmatic means.
+
+
+### What is Web Scraping
+`Web Scraping` (also termed `Screen Scraping`, `Web Data Extraction`, `Web Harvesting` etc.) is a technique employed to extract large amounts of data from websites whereby the data is extracted and saved to a local file in your computer or to a database in table (spreadsheet) format.
+
 
 ### Popular web scraping tools:
 
