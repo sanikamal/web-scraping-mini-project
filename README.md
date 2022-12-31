@@ -14,3 +14,8 @@
 
 ### Contents
 - [Scraping Car_Dealer_Website](https://github.com/sanikamal/web-scraping-with-python/blob/main/notebook/Web_Scraping_a_Car_Dealer_Website.ipynb)
+
+### Usefull Link
+- [Scrapy documentation](https://scrapy.org/)
+- [Scrapinghub website](https://scrapinghub.com/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
